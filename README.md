@@ -18,6 +18,7 @@ of fruits and Vegetables, when you pass a jpeg image into it.
 - [Dataset] #Dataset that was used
 - [Contributing] #info about how to can help me improve the code
 - [License]
+- [Issues]
 - [Acknowledgements]
 
 ## Files
@@ -48,6 +49,18 @@ dataset, to many pictures to upload into github so you can use Kaggle Datasets o
 datasets
 ![Screenshot 2025-01-23 at 03 09 57](https://github.com/user-attachments/assets/e18fae43-87a9-4fd7-a3d8-30d77548d606)
 
+## Contribution
+You can clone this repository and send an improved version of it to my linked 
+Linkedin Name - Hastings Chingwena: Data Analyst/Machine learning engineer 
+![Screenshot 2025-01-23 at 03 16 04](https://github.com/user-attachments/assets/8236530f-ee23-44c0-9a8e-90ac83b48467)
 
+## Issues
+- if your having any Problems make sure you installed all the tools needed
+- the model my take some time to train so make sure your computer can handle it
+- get in touch with me through my Linkedin or website
+
+## Acknowlegments
+Worked on this code myself using google and youtube when ever I was lost or needed more test
+datasets, so Thank you to me.
 
 
